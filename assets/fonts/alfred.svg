@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg">
+<metadata>Copyright (C) 2015 by original authors @ fontello.com</metadata>
+<defs>
+<font id="alfred" horiz-adv-x="1000" >
+<font-face font-family="alfred" font-weight="400" font-stretch="normal" units-per-em="1000" ascent="850" descent="-150" />
+<missing-glyph horiz-adv-x="1000" />
+<glyph glyph-name="alfred_hat" unicode="&#xe800;" d="m298 644c-110-50-131-94-131-256 0-128-2-134-63-157-83-31-102-85-46-131 132-106 752-106 884 0 56 46 37 100-46 131-61 23-63 29-63 157 0 72-10 150-23 175-58 110-345 156-512 81z" horiz-adv-x="1000" />
+</font>
+</defs>
+</svg>
