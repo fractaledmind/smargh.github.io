@@ -442,6 +442,8 @@ article.preview p.readmore {
 #social-icons a {
   display: inline-block;
   width: 1em;
+  height: 2.5em;
+  line-height: 2.5em;
   padding: 0 1% 0 1%;
 }
 #social-icons a i {
