@@ -456,8 +456,9 @@ article.preview p.readmore {
 
 .search {
     /* to center vertically */
-    height: 1.5em;
-    margin: 0.375em 0;
+    height: 2em;
+    line-height: 2em;
+    /*margin: 0.375em 0;*/
     width: 67%;
     border-radius: 1em;
     -moz-border-radius: 1em;
