@@ -446,8 +446,8 @@ article.preview p.readmore {
 }
 #social-icons a i {
   display: inline-block;
-  height: 2.5em;
-  line-height: 2.5em;
+  height: 2em;
+  line-height: 2em;
   color: #000;
 }
 #social-icons i:hover {
